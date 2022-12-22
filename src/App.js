@@ -1,34 +1,6 @@
 import React from 'react';
+import './App.css';
 
-class App extends React.Component {
-  constructor(props) {
-    super();
-
-    this.state = {
-      showP: false
-    }
-  }
-
-  showHideP = () => {
-    let { showP } = this.state;
-    showP = !showP;
-    this.setState({showP})
-  }
-
-  render() {
-    let p;
-
-    if (this.state.showP) {
-      p = <p>A kuku!</p>
-    }
-
-    return (
-      <>
-        {p}
-        <button onClick={this.showHideP}>click</button>
-      </>
-    );
-  }
-}
+class App extends React.Component {}
 
 export default App;
