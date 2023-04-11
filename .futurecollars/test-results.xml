@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="1.6">
+  <testsuite name="List tests" errors="0" failures="0" skipped="0" timestamp="2023-04-11T09:31:16" time="1.218" tests="4">
+    <testcase classname="List tests" name="Poprawnie wyświetla button" time="0.015">
+    </testcase>
+    <testcase classname="List tests" name="Domyślnie nie wyświetla paragrafu" time="0.001">
+    </testcase>
+    <testcase classname="List tests" name="Po kliknięciu w button wyświetla paragraf z odpowienim hasłem" time="0.003">
+    </testcase>
+    <testcase classname="List tests" name="Po ponownym kliknięciu w button ukrywa paragraf" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
