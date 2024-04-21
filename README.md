@@ -1,3 +1,9 @@
+Utwórz komponent klasowy App, w którym będą dwa elementy:
+
+Button
+Paragraf z napisem “A kuku!”
+Domyślnie, paragraf powinien być ukryty (display: none). Po kliknięciu w button, spraw aby paragraf się pokazał, a po ponownym kliknięciu - znów ukrył.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
