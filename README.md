@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 Utwórz komponent klasowy App, w którym będą dwa elementy:
 
 Button
